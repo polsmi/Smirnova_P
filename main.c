@@ -8,5 +8,7 @@ int main() {
     printf("Разность: %d\n", a - b);
     printf("коммит С4 в test\n");
     printf("коммит С5 в test\n");
+    printf("новое изменение 1\n");
+    printf("новое изменение 2\n");
     return 0;
 }
